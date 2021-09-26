@@ -39,9 +39,6 @@ Mathwork's bioinformatics toolbox documentation: [Mass Spectrometry and Bioanaly
     
             - [](images/MATLAB icon.jpg)   
 
-
-
-
 ## Latest news:
 
 Find latest news and write them here
