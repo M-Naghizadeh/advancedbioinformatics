@@ -30,14 +30,17 @@ Mathwork's bioinformatics toolbox documentation: [Mass Spectrometry and Bioanaly
 
 ## Online Resources:
 
+
 - Videos
     - Introduction to bioinformatics toolbox
      
-            - [](https://www.youtube.com/watch?v=npp3zFv35rQ)   
+     
+        - [](https://www.youtube.com/watch?v=npp3zFv35rQ)   
             
     - In order to see wealth of videos from learning matlab to perform advanced anlaysis visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
     
-            - [](images/MATLAB icon.jpg)   
+    
+        - [](images/MATLAB icon.jpg)   
 
 ## Latest news:
 
