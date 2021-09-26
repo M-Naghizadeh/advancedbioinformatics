@@ -2,7 +2,7 @@
 
 ## Sequence analysis
 
-Mathworks Bioinformatics toolbox documentation: [sequence analysis](https://www.mathworks.com/help/bioinfo/sequence-analysis.html)
+Mathwork's Bioinformatics toolbox documentation: [sequence analysis](https://www.mathworks.com/help/bioinfo/sequence-analysis.html)
 
 ## Microarray analysis
 
@@ -25,9 +25,6 @@ Mathwork's bioinformatics toolbox documentation: [Mass Spectrometry and Bioanaly
 
 ## Articles that have used MATLAB for analysis
 
-bring articles in feature examples of the mathwork guides
-Papers that recently used matlab in thier analysis: search pubmed: MATLAB
-
 
 
 
@@ -35,8 +32,11 @@ Papers that recently used matlab in thier analysis: search pubmed: MATLAB
 
 - Videos
     - Introduction to bioinformatics toolbox
+     
             - [](https://www.youtube.com/watch?v=npp3zFv35rQ)   
+            
     - In order to see wealth of videos from learning matlab to perform advanced anlaysis visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
+    
             - [](images/MATLAB icon.jpg)   
 
 
