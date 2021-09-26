@@ -5,6 +5,7 @@ Advanced Bioinformatics
 Because of advances in molecular biology, particularly sequencing technologies, the volume of biological data has dramatically increased in the last decade. The management and interpretation of biological data has become increasingly difficult as the volume of data has grown. In order to do analysis, molecular biologists need computational tools. Bioinformatics is a relatively new discipline that focuses on building the tools and software needed to make the most of data. We hope to collect and offer the most significant tools needed to conduct a given activity on genomes and proteomics data on this website. We'll show you how to do biological analysis using apps developed in the four most popular programming languages.
 
 
+
 Python
 ---------
 
@@ -26,9 +27,7 @@ Bioinformatics toolbox of the MathWorks, provide algorithms and apps for advance
 
 
 
-
-
-perl 
+Perl 
 -----------
 
 Before Python and R tools in bioinformatics became popular, bioinformatists used to work with Perl in order to write scripts and applications to carry out their needs. Perl is a very powerful language, particularly in handling text, which is mostly required by biologists, because of nucleotide and protein sequences.  Actually, the language was originally created for parsing files and quickly creating formatted reporting. The name "Perl" stands for "Practical Extraction and Reporting Language". The program has a very powerful regular expression capability for pattern matching, as well as built-in file manipulation. These abilities have proven invaluable for bioinformatics. Nearly every bioinformatist has written a program to parse a nucleotide sequence into a reverse complement sequnece. 
