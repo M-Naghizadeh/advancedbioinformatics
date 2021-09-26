@@ -19,5 +19,7 @@ The BioPerl website at http://bioperl.org also attempts to maintain links and ar
 
 ## Online resources:
 
-    - Videos
+- Videos
+
+
             - [](https://www.youtube.com/watch?v=GTlOudRp31s)
