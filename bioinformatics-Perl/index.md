@@ -20,4 +20,4 @@ The BioPerl website at http://bioperl.org also attempts to maintain links and ar
 ## Online resources:
 
     - Videos
-            - [](https://youtu.be/GTlOudRp31s)
+            - [](https://www.youtube.com/watch?v=GTlOudRp31s)
