@@ -20,4 +20,19 @@ The BioPerl website at http://bioperl.org also attempts to maintain links and ar
 ## Resources:
 
 - Videos
-        -[](https://www.youtube.com/watch?v=GTlOudRp31s) 
+
+        - [](https://www.youtube.com/watch?v=GTlOudRp31s) 
+
+- Books:
+    - [James Tisdall, mes D. Tisdall, Lorrie LeJeune · Beginning Perl for Bioinformaticsbooks . 2001 ](https://books.google.nl/books?id=BjabAgAAQBAJ&printsec=frontcover&dq=bioinformatics+with+perl&hl=en&sa=X&redir_esc=y#v=onepage&q=bioinformatics%20with%20perl&f=false)
+    - [James Tisdal . Mastering Perl for Bioinformatics](https://books.google.nl/books?id=S4inrd83htwC&printsec=frontcover&dq=bioinformatics+with+perl&hl=en&sa=X&redir_esc=y#v=onepage&q=bioinformatics%20with%20perl&f=false)
+
+- Websites:
+
+
+
+
+
+
+- Publications:
+
