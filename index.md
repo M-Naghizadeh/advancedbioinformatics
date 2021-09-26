@@ -13,7 +13,7 @@ Python
 Python is an object-oriented, interpreted, flexible language that is becoming increasingly popular for scientific computing. Python is easy to learn, has a very clear syntax and can easily be extended with modules written in C, C++ or FORTRAN. Python's recent rise in popularity is closely linked to its role as the primary programming language for big data. Bioinformatics is one of the most advanced uses of data science due to the deluge of data in biology, mostly from genomics and proteomics. Python is one of the most important tools for bioinformatists to use when analysing their data.
 
 
-- [bioinformatics with python](advancedbioinformatics-python/index.md)
+- [Bioinformatics with python](advancedbioinformatics-python/index.md)
 
 
 
@@ -24,7 +24,7 @@ Most of the scientists and engineers use MATLAB for analyzing and visualizing da
 
 Bioinformatics toolbox of the MathWorks, provide algorithms and apps for advanced bioinformatics such as Next Generation Sequencing (NGS), microarray analysis, mass spectrometery and gene ontology. Using toolbox functions, you can read all biological data and interact with biological databases. Furthermore, you would be able to to analyse and visualize them effectively. In order to learn about bioinformatics toolbox of MathWorks, visit its [website](https://www.mathworks.com/help/bioinfo/).
 
-- [bioinformatics with MATLAB](advancedbioinformatics-matlab/index.md)
+- [Bioinformatics with MATLAB](advancedbioinformatics-matlab/index.md)
 
 
 
@@ -46,6 +46,6 @@ R is available as Free Software under the terms of the Free Software Foundationâ
 All of these features made R and ideal environment for bioinformaticians to handle biological data, particularly high throughput genomics data.  
 
 
-- [bioinformatics with R](advancedbioinformatics-R/index.md)
+- [Bioinformatics with R](advancedbioinformatics-R/index.md)
 
 
