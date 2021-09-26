@@ -17,9 +17,7 @@ The BioPerl website at http://bioperl.org also attempts to maintain links and ar
 
 [bioperl repository](https://github.com/bioperl/bioperl-live)
 
-## Online resources:
+## Resources:
 
 - Videos
-
-
-            - [](https://www.youtube.com/watch?v=GTlOudRp31s)
+        -[](https://www.youtube.com/watch?v=GTlOudRp31s) 
