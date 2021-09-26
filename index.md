@@ -8,7 +8,7 @@ Because of advances in molecular biology, particularly sequencing technologies, 
 Python
 ---------
 
-Python is an object-oriented, interpreted, flexible language that is becoming increasingly popular for scientific computing. Python is easy to learn, has a very clear syntax and can easily be extended with modules written in C, C++ or FORTRAN. Python's recent rise in popularity is closely linked to its role as the primary programming language for big data. Bioinformatics is one of the most advanced uses of data science due to the deluge of data in biology, mostly from genomics and proteomics. Python is one of the most important tools for bioinformaticians to use when analysing their data.
+Python is an object-oriented, interpreted, flexible language that is becoming increasingly popular for scientific computing. Python is easy to learn, has a very clear syntax and can easily be extended with modules written in C, C++ or FORTRAN. Python's recent rise in popularity is closely linked to its role as the primary programming language for big data. Bioinformatics is one of the most advanced uses of data science due to the deluge of data in biology, mostly from genomics and proteomics. Python is one of the most important tools for bioinformatists to use when analysing their data.
 
 
 - [bioinformatics with python](advancedbioinformatics-python/index.md)
@@ -31,11 +31,9 @@ Bioinformatics toolbox of the MathWorks, provide algorithms and apps for advance
 perl 
 -----------
 
-This is a paragraph about perl as a programming language in performing bioinformatics.
+Before Python and R tools in bioinformatics became popular, bioinformatists used to work with Perl in order to write scripts and applications to carry out their needs. Perl is a very powerful language, particularly in handling text, which is mostly required by biologists, because of nucleotide and protein sequences.  Actually, the language was originally created for parsing files and quickly creating formatted reporting. The name "Perl" stands for "Practical Extraction and Reporting Language". The program has a very powerful regular expression capability for pattern matching, as well as built-in file manipulation. These abilities have proven invaluable for bioinformatics. Nearly every bioinformatist has written a program to parse a nucleotide sequence into a reverse complement sequnece. 
 
-Hint: this is hint one.
-
-* bioperl
+- [Bioinformatics with Perl](bioinformatics-Perl/index.md)
 
 
 R
