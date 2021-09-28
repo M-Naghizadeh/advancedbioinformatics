@@ -8,6 +8,7 @@ Biofasta
 [Contribute](Contribute.md)
 [Blog](Blog.md)
 [Forum](Forum.md)
-[Change Theme](Change theme.md)
 
 
+[gimmick:themechooser](Change theme)
+[gimmick:theme (inverse: true)](readable)

@@ -1,4 +1,10 @@
-# Bioinformatics with MATLAB
+# Bioinformatics with MATLAB                
+
+
+--------------------------------------------------------------------------------
+
+
+![](images/MATLAB icon.jpg)
 
 
 ## Bioinformatics toolbox
@@ -9,7 +15,7 @@ You can combine toolbox functions to support common bioinformatics workflows. Yo
 
 [Bioinformatics toolbox](https://www.mathworks.com/help/bioinfo/)
 
-## Sequence analysis
+## Sequence Analysis
 
 Gain deeper understanding of sequence features, functions, and evolution by performing analyses on nucleotide or amino acid sequences. Compare sequences using pairwise or multiple sequence alignment methods. Calculate sequence properties and statistics to gain more insight on physical, chemical, and biological characteristics of your data. Perform BLAST searches against known sequences in online or local databases. Determine the evolutionary relationships between organisms by building phylogenetic trees from pairwise distances of sequences.
 
@@ -22,7 +28,7 @@ Highlighted topics are:
 
 Mathworks' Bioinformatics toolbox documentation: [sequence analysis](https://www.mathworks.com/help/bioinfo/sequence-analysis.html)
 
-## Microarray analysis
+## Microarray Analysis
 
 Gene expression and genetic variant analysis of microarray data
 Microarrays contain oligonucleotide or cDNA probes to measure the expression levels of genes on a genomic scale. Bioinformatics Toolbox™ lets you preprocess expression data from microarrays using various normalization and filtering methods. Use the normalized data to identify differentially expressed genes and perform enrichment analysis of expression results using Gene Ontology. You can also detect genetic variants such as copy number variations (CNVs) and single nucleotide polymorphism (SNPs) from comparative genomic hybridization (CGH) data. Visualize gene and protein-protein interaction networks using graph theory algorithms.
@@ -33,7 +39,7 @@ Highlighted topics are:
 
 Mathworks' Bioinformatics toolbox documentation: [Microarray analysis](https://www.mathworks.com/help/bioinfo/microarray-analysis.html)
 
-## High-Throughput sequencing analysis
+## High-Throughput Sequencing Analysis
 
 High-throughput sequencing methods generate large amounts of sequence data and require robust computational tools for further analysis. Bioinformatics Toolbox™ provides algorithms to support common analysis workflows for Next-Generation Sequencing (NGS) data, such as filtering and trimming reads, mapping reads to references, counting the number of reads mapped to genomic features, and performing statistical analyses.
 
@@ -45,7 +51,7 @@ Highlighted topics are:
 
 Mathworks' bioinformatics toolbox documentation: [High-Throughput sequencing](https://www.mathworks.com/help/bioinfo/microarray-analysis.html)
 
-## Structural analysis
+## Structural Analysis
 
 3-D structures of proteins and molecules are often necessary to understand their functions at a molecular level. Bioinformatics Toolbox™ lets you import such structural information stored in protein data bank (PDB) files and visualize them interactively. Superpose the structures and analyze them using Ramachandran plots. You can also predict and draw the secondary structure of an RNA sequence.
 
@@ -88,6 +94,5 @@ Mathworks' bioinformatics toolbox documentation: [Mass Spectrometry and Bioanaly
 
 ## Latest news:
 
-Find latest news and write them here
 
 

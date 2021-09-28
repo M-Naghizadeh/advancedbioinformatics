@@ -2,7 +2,7 @@ Python tools
 ===============
 
 
-## Sequencing
+## Sequence Analysis
 
 ### libraries
 
@@ -26,7 +26,7 @@ Python tools
     In order to get the material of this video go to https://nbviewer.jupyter.org/github/cgoliver/Notebooks/blob/master/COMP_364/L25/L25.ipynb
     
 
-## Processing NGS data
+## Processing Next Generation Sequencing (NGS) data
 
 ### libraries
 
