@@ -5,19 +5,10 @@
 
 
 
-
 Because of advances in molecular biology, particularly sequencing technologies, the volume of biological data has dramatically increased in the last decade. The management and interpretation of biological data has become increasingly difficult as the volume of data has grown. In order to do analysis, molecular biologists need computational tools. Bioinformatics is a relatively new discipline that focuses on building the tools and software needed to make the most of data. We hope to collect and offer the most significant tools needed to conduct a given activity on genomes and proteomics data on this website. We'll show you how to do biological analysis using apps developed in the four most popular programming languages.
 
 
 -------------------------------------------------------
-
-
-
-
-
-
-
-
 
 
 Python
@@ -44,9 +35,6 @@ Bioinformatics toolbox of the MathWorks, provide algorithms and apps for advance
 
 
 -------------------------------------------------------------
-
-
-
 
 Perl 
 -------

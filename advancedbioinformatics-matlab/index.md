@@ -4,9 +4,6 @@
 --------------------------------------------------------------------------------
 
 
-![](images/MATLAB icon.jpg)
-
-
 ## Bioinformatics toolbox
 
 Bioinformatics Toolbox™ provides algorithms and apps for Next Generation Sequencing (NGS), microarray analysis, mass spectrometry, and gene ontology. Using toolbox functions, you can read genomic and proteomic data from standard file formats such as SAM, FASTA, CEL, and CDF, as well as from online databases such as the NCBI Gene Expression Omnibus and GenBank®. You can explore and visualize this data with sequence browsers, spatial heatmaps, and clustergrams. The toolbox also provides statistical techniques for detecting peaks, imputing values for missing data, and selecting features.
@@ -14,6 +11,18 @@ Bioinformatics Toolbox™ provides algorithms and apps for Next Generation Seque
 You can combine toolbox functions to support common bioinformatics workflows. You can use ChIP-Seq data to identify transcription factors; analyze RNA-Seq data to identify differentially expressed genes; identify copy number variants and SNPs in microarray data; and classify protein profiles using mass spectrometry data.
 
 [Bioinformatics toolbox](https://www.mathworks.com/help/bioinfo/)
+
+
+## Online Resources:
+
+
+- Videos
+    - Introduction to bioinformatics toolbox
+        - [](https://www.youtube.com/watch?v=npp3zFv35rQ)   
+
+    - In order to see wealth of videos from learning matlab to perform advanced anlaysis visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
+
+
 
 ## Sequence Analysis
 
@@ -51,6 +60,7 @@ Highlighted topics are:
 
 Mathworks' bioinformatics toolbox documentation: [High-Throughput sequencing](https://www.mathworks.com/help/bioinfo/microarray-analysis.html)
 
+
 ## Structural Analysis
 
 3-D structures of proteins and molecules are often necessary to understand their functions at a molecular level. Bioinformatics Toolbox™ lets you import such structural information stored in protein data bank (PDB) files and visualize them interactively. Superpose the structures and analyze them using Ramachandran plots. You can also predict and draw the secondary structure of an RNA sequence.
@@ -84,10 +94,10 @@ Mathworks' bioinformatics toolbox documentation: [Mass Spectrometry and Bioanaly
 
 
 - Videos
-    - Introduction to bioinformatics toolbox
-        - [](https://www.youtube.com/watch?v=npp3zFv35rQ)   
 
-    - In order to see wealth of videos from learning matlab to perform advanced anlaysis visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
+    - In order to watch videos for learning matlab to perform advanced anlaysis visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
+- Watch mathworks Bioinformatics toolbox's examples videos at [here](https://ww2.mathworks.cn/support/search.html?fq[]=asset_type_name:video&fq[]=category:bioinfo/index&page=1)
+    - 
 
 
 

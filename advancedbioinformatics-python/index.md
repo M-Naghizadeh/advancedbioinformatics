@@ -69,5 +69,70 @@ Python tools
 ## Population Genetics
 
 
+- Libraries
+- Numpy
+
+- Biopython
+- Bio.PopGen
+
+Biopython makes Population Genetics functionality available in the Bio.PopGen module.
+
+[Bio.PopGen documentation](https://biopython.org/wiki/PopGen)
+
+- pygenomics
+  
+To see details about pygenomics use [pygenomics repository](https://github.com/tiagoantao/pygenomics)
+
+- pypop
+
+
+PyPop (Python for Population Genomics) is an environment developed by the Thomson lab for doing large-scale population genetic analyses including: (1) conformity to Hardy-Weinberg expectations, (2) tests for balancing or directional selection; (3) estimates of haplotype frequencies (and their distributions) and measures and tests of significance for linkage disequilibrium (LD). 
+[PyPop Documentation](http://pypop.org/)
+
+
+
+## Phylogenetics
+
+- Biopython
+- Bio.Phylo
+
+
+This module provides classes, functions and I/O support for working with phylogenetic trees.
+[Bio.Phylo documentation](https://biopython.org/wiki/Phylo)
+
+- DendroPy
+
+A Python library for phylogenetics and phylogenetic computing: reading, writing, simulation, processing and manipulation of phylogenetic trees (phylogenies) and characters.
+[DendroPy documentation](https://pypi.org/project/DendroPy/)
+
+
+Online Sources:
+
+
+- Videos
+    - Biopython Tutorial: Construct a phylogenetic tree
+        - [](https://www.youtube.com/watch?v=8ICbCmZtuSk)
+
+
+
+## Working with protein data bank
+
+Libraries:
+
+- BioPython
+- Bio.PDB
+
+[Bio.PDB documentation](https://biopython.org/docs/1.75/api/Bio.PDB.html)
+
+
+Online Resources:
+
+
+- Videos:
+    - BioPython structure analysis
+        - [](https://www.youtube.com/watch?v=mL8NPpRxgJA)
+
+
+## Working with Big Data
 
 
