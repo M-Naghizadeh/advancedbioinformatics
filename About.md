@@ -1,7 +1,6 @@
 # ABOUT
 
-This web page which is hosted on github is dedicated to introduced the tools written in four most important languages for handling biological data. We are currently working on it, and its not completed yet. developers who want to contribute can make a pull request. 
-
+Biofasta is a website dedicated to introducing the tools for managing biological data written in the four most common languages. We're working on it right now, and it's not finished yet.
 
 
 
