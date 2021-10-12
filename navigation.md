@@ -6,8 +6,6 @@ Biofasta
 [About](About.md)
 [Download](Download.md)
 [Contribute](Contribute.md)
-[Blog](Blog.md)
-[Forum](Forum.md)
 
 
 [gimmick:themechooser](Change theme)

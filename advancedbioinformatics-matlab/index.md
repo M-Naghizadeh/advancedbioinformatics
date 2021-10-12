@@ -35,7 +35,7 @@ Highlighted topics are:
 3. Exploring a Nucleotide Sequence Using Command Line
 4. Explore a Protein Sequence Using the Sequence Viewer App
 
-Mathworks' Bioinformatics toolbox documentation: [sequence analysis](https://www.mathworks.com/help/bioinfo/sequence-analysis.html)
+**Mathworks' Bioinformatics toolbox documentation:** [**sequence analysis**](https://www.mathworks.com/help/bioinfo/sequence-analysis.html)
 
 ## Microarray Analysis
 
@@ -46,7 +46,7 @@ Highlighted topics are:
 1. Managing Gene Expression Data in Objects
 2. Representing Expression Data Values in DataMatrix Objects
 
-Mathworks' Bioinformatics toolbox documentation: [Microarray analysis](https://www.mathworks.com/help/bioinfo/microarray-analysis.html)
+**Mathworks' Bioinformatics toolbox documentation:** [**Microarray analysis**](https://www.mathworks.com/help/bioinfo/microarray-analysis.html)
 
 ## High-Throughput Sequencing Analysis
 
@@ -58,7 +58,7 @@ Highlighted topics are:
 3. Work with Next-Generation Sequencing Data
 4. Manage Sequence Read Data in Objects
 
-Mathworks' bioinformatics toolbox documentation: [High-Throughput sequencing](https://www.mathworks.com/help/bioinfo/microarray-analysis.html)
+**Mathworks' bioinformatics toolbox documentation:** [**High-Throughput sequencing**](https://www.mathworks.com/help/bioinfo/microarray-analysis.html)
 
 
 ## Structural Analysis
@@ -69,7 +69,7 @@ Highlighted topics are:
 1. RNA Secondary Structure Analysis
 2. Analysis of 3-D Structures of Biological Molecules
 
-Mathworks' bioinformatics toolbox documentation: [Structural analysis](https://www.mathworks.com/help/bioinfo/structural-analysis.html)
+**Mathworks' bioinformatics toolbox documentation:** [**Structural analysis**](https://www.mathworks.com/help/bioinfo/structural-analysis.html)
 
 ## Mass Spectrometry and Bioanalytics
 
@@ -80,13 +80,9 @@ Highlighted topics are:
 1. Mass Spectrometry Data Analysis
 2. Data Formats and Databases
 
-Mathworks' bioinformatics toolbox documentation: [Mass Spectrometry and Bioanalytics](https://www.mathworks.com/help/bioinfo/mass-spectrometry-and-bioanalytics.html)
+**Mathworks' bioinformatics toolbox documentation:** [**Mass Spectrometry and Bioanalytics**](https://www.mathworks.com/help/bioinfo/mass-spectrometry-and-bioanalytics.html)
 
     Mathwork's bioinformatics toolbox documentations completely describes the steps needed to perform the abovementioned analysis. The feature examples provided with each analysis is very helpful in detailed learning of the process.
-
-
-## Articles that have used MATLAB for analysis
-
 
 
 
@@ -97,12 +93,5 @@ Mathworks' bioinformatics toolbox documentation: [Mass Spectrometry and Bioanaly
 
     - In order to watch videos for learning matlab to perform advanced anlaysis visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
 - Watch mathworks Bioinformatics toolbox's examples videos at [here](https://ww2.mathworks.cn/support/search.html?fq[]=asset_type_name:video&fq[]=category:bioinfo/index&page=1)
-    - 
-
-
-
-
-## Latest news:
-
 
 

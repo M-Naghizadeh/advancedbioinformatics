@@ -135,13 +135,12 @@ Bioconductor is an open development project, meaning that all developers from th
 
 ##Online resources
 
-- awesomeopensource[https://awesomeopensource.com/projects/bioinformatics/r?categoryPage=29]
+- [awesomeopensource](https://awesomeopensource.com/projects/bioinformatics/r?categoryPage=29)
 The Top 361 R Bioinformatics Open Source Projects on Github
 
 - [R for biologists](https://www.bigbioinformatics.org/r-for-biologists)
 
-- A large-scale analysis of bioinformatics code on GitHub [https://www.biorxiv.org/content/10.1101/321919v2.full]
-  [Github repository](https://github.com/pamelarussell/github-bioinformatics)
+- [A large-scale analysis of bioinformatics code on GitHub](https://www.biorxiv.org/content/10.1101/321919v2.full) --- [Github repository for biorxiv webpage](https://github.com/pamelarussell/github-bioinformatics)
 
 - [Bioinformatics resources](https://sovacool.dev/posts/2019-05-15-bioinf-resources/)
 
@@ -206,6 +205,4 @@ A curated list of awesome big data frameworks, resources and other awesomeness. 
 - [awesome-R](https://github.com/qinwf/awesome-R)
 
 A curated list of awesome R packages and tools. Inspired by awesome-machine-learning.
-
-
 

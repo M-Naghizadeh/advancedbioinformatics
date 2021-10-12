@@ -1,4 +1,4 @@
-Python tools
+Bioinformatics with Python
 ===============
 
 Python is an easy to learn programming language, and so powerful enough to accomplish most programming goals. Bioinformatists use python for molecular visualization, genome annotation, data manipulation and countless other applications. In this page we will introduce the python tools developed to perform some of the most important data analysis particularly analysis of next-generation sequencing data.
@@ -9,7 +9,7 @@ Python is an easy to learn programming language, and so powerful enough to accom
 
 - biopython
 
-    The Biopython Project is an international association of developers of freely available Python (https://www.python.org) tools for computational molecular biology. The Biopython web site (http://www.biopython.org) provides an online resource for modules, scripts, and web links for developers of Python-based software for bioinformatics use and research. Basically, the goal of Biopython is to make it as easy as possible to use Python for bioinformatics by creating high-quality, reusable modules and classes. Biopython features include parsers for various Bioinformatics file formats (BLAST, Clustalw, FASTA, Genbank,...), access to online services (NCBI, Expasy,...), interfaces to common and not-so-common programs (Clustalw, DSSP, MSMS...), a standard sequence class, various clustering modules, a KD tree data structure etc. and even documentation.
+    The Biopython Project is an international association of developers of [freely available Python tools](https://www.python.org) for computational molecular biology. The [Biopython web site](http://www.biopython.org) provides an online resource for modules, scripts, and web links for developers of Python-based software for bioinformatics use and research. Basically, the goal of Biopython is to make it as easy as possible to use Python for bioinformatics by creating high-quality, reusable modules and classes. Biopython features include parsers for various Bioinformatics file formats (BLAST, Clustalw, FASTA, Genbank,...), access to online services (NCBI, Expasy,...), interfaces to common and not-so-common programs (Clustalw, DSSP, MSMS...), a standard sequence class, various clustering modules, a KD tree data structure etc. and even documentation.
  
     [biopython tutorial](http://biopython.org/DIST/docs/tutorial/Tutorial.html)
     
@@ -20,7 +20,7 @@ Python is an easy to learn programming language, and so powerful enough to accom
  
     - 
         - [](https://www.youtube.com/watch?v=qQ7rIpB4oOw)
-    In order to get the material of this video go to https://nbviewer.jupyter.org/github/cgoliver/Notebooks/blob/master/COMP_364/L25/L25.ipynb
+    In order to get the material of this video go to [here](https://nbviewer.jupyter.org/github/cgoliver/Notebooks/blob/master/COMP_364/L25/L25.ipynb)
 
 
 - For developers 

@@ -1,9 +1,6 @@
 [![](biofasta.png)](http://biofasta.com)
 
 
-[[navigation]]
-
-
 
 Because of advances in molecular biology, particularly sequencing technologies, the volume of biological data has dramatically increased in the last decade. The management and interpretation of biological data has become increasingly difficult as the volume of data has grown. In order to do analysis, molecular biologists need computational tools. Bioinformatics is a relatively new discipline that focuses on building the tools and software needed to make the most of data. We hope to collect and offer the most significant tools needed to conduct a given activity on genomes and proteomics data on this website. We'll show you how to do biological analysis using apps developed in the four most popular programming languages.
 
@@ -21,6 +18,18 @@ Python is an object-oriented, interpreted, flexible language that is becoming in
 
 
 ---------------------------------------------------------
+
+R
+-----
+
+R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories (formerly AT&T, now Lucent Technologies) by John Chambers and colleagues. It provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques, and is highly extensible. One of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.
+
+All of these features made R an ideal environment for bioinformatists to handle biological data, particularly high throughput genomics data.  
+
+
+- [Bioinformatics with R](advancedbioinformatics-R/index.md)
+
+------------------------------------------------------------
 
 
 MATLAB                      
@@ -45,19 +54,6 @@ Before Python and R tools in bioinformatics became popular, bioinformatists used
 
 - [Bioinformatics with Perl](bioinformatics-Perl/index.md)
 
-
-------------------------------------------------------------
-
-
-R
------
-
-R is a language and environment for statistical computing and graphics. It is a GNU project which is similar to the S language and environment which was developed at Bell Laboratories (formerly AT&T, now Lucent Technologies) by John Chambers and colleagues. It provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, …) and graphical techniques, and is highly extensible. One of R’s strengths is the ease with which well-designed publication-quality plots can be produced, including mathematical symbols and formulae where needed. R is available as Free Software under the terms of the Free Software Foundation’s GNU General Public License in source code form. It compiles and runs on a wide variety of UNIX platforms and similar systems (including FreeBSD and Linux), Windows and MacOS.
-
-All of these features made R an ideal environment for bioinformatists to handle biological data, particularly high throughput genomics data.  
-
-
-- [Bioinformatics with R](advancedbioinformatics-R/index.md)
 
 
 
