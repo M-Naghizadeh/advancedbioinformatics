@@ -20,7 +20,7 @@ You can combine toolbox functions to support common bioinformatics workflows. Yo
     - Introduction to bioinformatics toolbox
         - [](https://www.youtube.com/watch?v=npp3zFv35rQ)   
 
-    - In order to see wealth of videos from learning matlab to perform advanced anlaysis visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
+    - In order to see the wealth of videos from learning Matlab to performing advanced analysis, visit [MATLAB youtube channel](https://www.youtube.com/user/MATLAB)
 
 
 
@@ -81,9 +81,7 @@ Highlighted topics are:
 2. Data Formats and Databases
 
 **Mathworks' bioinformatics toolbox documentation:** [**Mass Spectrometry and Bioanalytics**](https://www.mathworks.com/help/bioinfo/mass-spectrometry-and-bioanalytics.html)
-
-    Mathwork's bioinformatics toolbox documentations completely describes the steps needed to perform the abovementioned analysis. The feature examples provided with each analysis is very helpful in detailed learning of the process.
-
+    The bioinformatics toolkit documentation from Mathwork thoroughly explains the methods required to execute the aforementioned analysis. Each study includes feature examples that are quite helpful in acquiring a thorough knowledge of the process.
 
 
 ## Online Resources:
